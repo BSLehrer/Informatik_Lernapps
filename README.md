@@ -79,4 +79,4 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 3.  **Quellcode:** Jeder Ordner enthält ein eigenständiges Flutter-Projekt.
 
 ---
-*Erstellt von [DEIN NAME] | TU Dresden Weiterbildung Informatikdidaktik*
+*Erstellt von Björn Födisch | TU Dresden Weiterbildung Informatikdidaktik*
