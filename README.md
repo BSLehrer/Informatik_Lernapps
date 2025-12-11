@@ -18,7 +18,7 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 
 | Version | Download | Beschreibung |
 | :--- | :--- | :--- |
-| 🌐 **Web (HTML)** | [**Hier starten**](LINK_ZU_DEINER_WEBSEITE) | Direkt im Browser nutzen (keine Installation). |
+| 🌐 **Web (HTML)** | [**Hier starten**](https://github.com/BSLehrer/Informatik_Lernapps/releases/tag/v1.0) | Direkt im Browser nutzen (keine Installation). |
 | 🪟 **Windows** | [**Download .zip**](LINK_ZUM_RELEASE_WINDOWS_DASI) | `.exe` Datei (Portable). Bitte entpacken. |
 | 🤖 **Android** | [**Download .apk**](LINK_ZUM_RELEASE_APK_DASI) | App-Datei für Android Smartphones/Tablets. |
 | 💻 **Quellcode** | [**Zum Ordner**](/datensicherheit_app) | Flutter-Projekt für Weiterentwicklung. |
