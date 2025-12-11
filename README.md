@@ -18,10 +18,10 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 
 | Version | Download | Beschreibung |
 | :--- | :--- | :--- |
-| 🌐 **Web (HTML)** | [**Hier starten**](https://github.com/BSLehrer/Informatik_Lernapps/releases/tag/v1.0) | Direkt im Browser nutzen (keine Installation). |
-| 🪟 **Windows** | [**Download .zip**](LINK_ZUM_RELEASE_WINDOWS_DASI) | `.exe` Datei (Portable). Bitte entpacken. |
-| 🤖 **Android** | [**Download .apk**](LINK_ZUM_RELEASE_APK_DASI) | App-Datei für Android Smartphones/Tablets. |
-| 💻 **Quellcode** | [**Zum Ordner**](/datensicherheit_app) | Flutter-Projekt für Weiterentwicklung. |
+| 🌐 **Web (HTML)** | [**Hier starten**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/DaSi-Web-App.zip) | Download der ZIP-Datei zur lokalen Nutzung im Browser. |
+| 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/DaSi-Trainer-windows.zip) | Enthält die `.exe` Datei (Portable). Bitte entpacken. |
+| 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/DaSi-Android.zip) | **Achtung:** Dies ist eine `.zip`-Datei, die die `.apk` enthält. Bitte entpacken Sie sie. |
+| 💻 **Quellcode** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/dasi_Quellcode.zip) | ZIP-Datei des Flutter-Projekts. |
 
 </details>
 
