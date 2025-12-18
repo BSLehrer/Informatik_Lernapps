@@ -64,8 +64,8 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 | Version | Download | Beschreibung |
 | :--- | :--- | :--- |
 | 🌐 **Web (HTML)** | [**Hier starten**](LINK_ZU_DEINER_WEBSEITE_MCI) | Direkt im Browser nutzen. |
-| 🪟 **Windows** | [**Download .zip**](LINK_ZUM_RELEASE_WINDOWS_MCI) | `.exe` Datei (Portable). Bitte entpacken. |
-| 🤖 **Android** | [**Download .apk**](LINK_ZUM_RELEASE_APK_MCI) | App-Datei für Android. |
+| 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/GruMCI_windows.zip) | `.exe` Datei (Portable). Bitte entpacken. 
+| 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/GruMCI_app.zip) | App-Datei für Android. |
 | 💻 **Quellcode** | [**Zum Ordner**](/mci_app) | Flutter-Projekt. |
 
 </details>
