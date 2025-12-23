@@ -18,7 +18,7 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 
 | Version | Download | Beschreibung |
 | :--- | :--- | :--- |
-| 🌐 **Web (HTML)** | [**Hier starten**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/DaSi_web.zip) | Download der ZIP-Datei zur lokalen Nutzung im Browser. |
+| 🌐 **Web (HTML)** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/DaSi_web.zip) | Download der ZIP-Datei zur lokalen Nutzung im Browser. |
 | 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/DaSi_windows.zip) | Enthält die `.exe` Datei (Portable). Bitte entpacken. |
 | 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/DaSi_android.zip) |**Achtung:** Dies ist eine `.zip`-Datei, die die `.apk` enthält. Bitte entpacken Sie sie. |
 | 💻 **Quellcode** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/Quellcode.zip) | ZIP-Datei des Flutter-Projekts. |
@@ -33,10 +33,10 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 
 | Version | Download | Beschreibung |
 | :--- | :--- | :--- |
-| 🌐 **Web (HTML)** | [**Hier starten**](LINK_ZU_DEINER_WEBSEITE_WEB) | Direkt im Browser nutzen. |
+| 🌐 **Web (HTML)** | [**Download .zip**](LINK_ZU_DEINER_WEBSEITE_WEB) | Direkt im Browser nutzen. |
 | 🪟 **Windows** | [**Download .zip**](LINK_ZUM_RELEASE_WINDOWS_WEB) | `.exe` Datei (Portable). Bitte entpacken. |
 | 🤖 **Android** | [**Download .apk**](LINK_ZUM_RELEASE_APK_WEB) | App-Datei für Android. |
-| 💻 **Quellcode** | [**Zum Ordner**](/webprogrammierung_app) | Flutter/Web-Projekt. |
+| 💻 **Quellcode** | [**Download .zip**](/webprogrammierung_app) | Flutter/Web-Projekt. |
 
 </details>
 
@@ -48,10 +48,10 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 
 | Version | Download | Beschreibung |
 | :--- | :--- | :--- |
-| 🌐 **Web (HTML)** | [**Hier starten**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v2.0/TI_web.zip) | Direkt im Browser nutzen. |
+| 🌐 **Web (HTML)** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v2.0/TI_web.zip) | Direkt im Browser nutzen. |
 | 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v2.0/TI-App_windows.zip) | `.exe` Datei (Portable). Bitte entpacken. 
 | 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v2.0/TI-App_apk.zip)) | App-Datei für Android. |
-| 💻 **Quellcode** | [**Zum Ordner**](/ti_app) | Flutter-Projekt. |
+| 💻 **Quellcode** | [**Download .zip**](/ti_app) | Flutter-Projekt. |
 
 </details>
 
@@ -63,10 +63,10 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 
 | Version | Download | Beschreibung |
 | :--- | :--- | :--- |
-| 🌐 **Web (HTML)** | [**Hier starten**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/GruMCI_web.zip) | Direkt im Browser nutzen. |
+| 🌐 **Web (HTML)** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/GruMCI_web.zip) | Direkt im Browser nutzen. |
 | 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/GruMCI_windows.zip) | `.exe` Datei (Portable). Bitte entpacken. 
 | 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/GruMCI_app.zip) | App-Datei für Android. |
-| 💻 **Quellcode** | [**Zum Ordner**](/mci_app) | Flutter-Projekt. |
+| 💻 **Quellcode** | [**Download .zip**](/mci_app) | Flutter-Projekt. |
 
 </details>
 
