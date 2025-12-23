@@ -20,7 +20,7 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 | :--- | :--- | :--- |
 | 🌐 **Web (HTML)** | [**Hier starten**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/DaSi_web.zip) | Download der ZIP-Datei zur lokalen Nutzung im Browser. |
 | 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/DaSi_windows.zip) | Enthält die `.exe` Datei (Portable). Bitte entpacken. |
-| 🤖 **Android** | [**Download .apk**]([https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/DaSi_android.zip) |**Achtung:** Dies ist eine `.zip`-Datei, die die `.apk` enthält. Bitte entpacken Sie sie. |
+| 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/DaSi_android.zip) |**Achtung:** Dies ist eine `.zip`-Datei, die die `.apk` enthält. Bitte entpacken Sie sie. |
 | 💻 **Quellcode** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/Quellcode.zip) | ZIP-Datei des Flutter-Projekts. |
 
 </details>
