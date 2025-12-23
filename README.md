@@ -48,7 +48,7 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 
 | Version | Download | Beschreibung |
 | :--- | :--- | :--- |
-| 🌐 **Web (HTML)** | [**Hier starten**](LINK_ZU_DEINER_WEBSEITE_TI) | Direkt im Browser nutzen. |
+| 🌐 **Web (HTML)** | [**Hier starten**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v2.0/TI_web.zip) | Direkt im Browser nutzen. |
 | 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v2.0/TI-App_windows.zip) | `.exe` Datei (Portable). Bitte entpacken. 
 | 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v2.0/TI-App_apk.zip)) | App-Datei für Android. |
 | 💻 **Quellcode** | [**Zum Ordner**](/ti_app) | Flutter-Projekt. |
@@ -63,7 +63,7 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 
 | Version | Download | Beschreibung |
 | :--- | :--- | :--- |
-| 🌐 **Web (HTML)** | [**Hier starten**](LINK_ZU_DEINER_WEBSEITE_MCI) | Direkt im Browser nutzen. |
+| 🌐 **Web (HTML)** | [**Hier starten**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/GruMCI_web.zip) | Direkt im Browser nutzen. |
 | 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/GruMCI_windows.zip) | `.exe` Datei (Portable). Bitte entpacken. 
 | 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/GruMCI_app.zip) | App-Datei für Android. |
 | 💻 **Quellcode** | [**Zum Ordner**](/mci_app) | Flutter-Projekt. |
