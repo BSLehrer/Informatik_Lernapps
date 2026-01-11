@@ -66,7 +66,7 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 | 🌐 **Web (HTML)** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/GruMCI_web.zip) | Direkt im Browser nutzen. |
 | 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/GruMCI_windows.zip) | `.exe` Datei (Portable). Bitte entpacken. 
 | 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/GruMCI_app.zip) | App-Datei für Android. |
-| 💻 **Quellcode** | [**Download .zip**](/mci_app) | Flutter-Projekt. |
+| 💻 **Quellcode** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/Quellcode.zip) | Flutter-Projekt. |
 
 </details>
 
