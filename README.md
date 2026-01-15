@@ -77,10 +77,10 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 
 | Version | Download | Beschreibung |
 | :--- | :--- | :--- |
-| 🌐 **Web (HTML)** | [**Download .zip**](HIER_LINK_EINFÜGEN) | Direkt im Browser nutzen. |
-| 🪟 **Windows** | [**Download .zip**](HIER_LINK_EINFÜGEN) | `.exe` Datei (Portable). Bitte entpacken. |
-| 🤖 **Android** | [**Download .apk**](HIER_LINK_EINFÜGEN) | App-Datei für Android. |
-| 💻 **Quellcode** | [**Download .zip**](HIER_LINK_EINFÜGEN) | Flutter-Projekt (Assets inkludiert). |
+| 🌐 **Web (HTML)** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/version5.0/Web-Trainer_web.zip) | Direkt im Browser nutzen. |
+| 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/version5.0/Web-Trainer_windows.zip) | `.exe` Datei (Portable). Bitte entpacken. |
+| 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/version5.0/Web-Trainer_app.zip) | App-Datei für Android. |
+| 💻 **Quellcode** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/version5.0/Quellcode.zip) | Flutter-Projekt (Assets inkludiert). |
 
 </details>
 
