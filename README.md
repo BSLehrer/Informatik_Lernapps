@@ -7,7 +7,6 @@ Ziel ist es, fachwissenschaftliche Inhalte für den Unterricht (Sek I / Sek II) 
 ---
 
 ## 📂 Wähle eine App
-
 Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 
 <details>
@@ -20,15 +19,15 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 | :--- | :--- | :--- |
 | 🌐 **Web (HTML)** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/DaSi_web.zip) | Download der ZIP-Datei zur lokalen Nutzung im Browser. |
 | 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/DaSi_windows.zip) | Enthält die `.exe` Datei (Portable). Bitte entpacken. |
-| 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/DaSi_android.zip) |**Achtung:** Dies ist eine `.zip`-Datei, die die `.apk` enthält. Bitte entpacken Sie sie. |
+| 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/DaSi_android.zip) | **Achtung:** Dies ist eine `.zip`-Datei, die die `.apk` enthält. Bitte entpacken. |
 | 💻 **Quellcode** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1.0/Quellcode.zip) | ZIP-Datei des Flutter-Projekts. |
 
 </details>
 
 <details>
-<summary><h2>🌐 Webprogrammierung</h2></summary>
+<summary><h2>🌐 Webprogrammierung (Grundlagen)</h2></summary>
 <br>
-<i>Inhalte: HTML/CSS Grundlagen, JavaScript Interaktionen, DOM-Manipulation.</i>
+<i>Inhalte: HTML/CSS Basics, JavaScript Interaktionen, DOM-Manipulation.</i>
 <br><br>
 
 | Version | Download | Beschreibung |
@@ -49,8 +48,8 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 | Version | Download | Beschreibung |
 | :--- | :--- | :--- |
 | 🌐 **Web (HTML)** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v2.0/TI_web.zip) | Direkt im Browser nutzen. |
-| 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v2.0/TI-App_windows.zip) | `.exe` Datei (Portable). Bitte entpacken. 
-| 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v2.0/TI-App_apk.zip)) | App-Datei für Android. |
+| 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v2.0/TI-App_windows.zip) | `.exe` Datei (Portable). Bitte entpacken. |
+| 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v2.0/TI-App_apk.zip) | App-Datei für Android. |
 | 💻 **Quellcode** | [**Download .zip**](/ti_app) | Flutter-Projekt. |
 
 </details>
@@ -64,9 +63,24 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 | Version | Download | Beschreibung |
 | :--- | :--- | :--- |
 | 🌐 **Web (HTML)** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/GruMCI_web.zip) | Direkt im Browser nutzen. |
-| 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/GruMCI_windows.zip) | `.exe` Datei (Portable). Bitte entpacken. 
+| 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/GruMCI_windows.zip) | `.exe` Datei (Portable). Bitte entpacken. |
 | 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/GruMCI_app.zip) | App-Datei für Android. |
 | 💻 **Quellcode** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v3.0/Quellcode.zip) | Flutter-Projekt. |
+
+</details>
+
+<details>
+<summary><h2>🎓 WebProg Tutor (Klausur-Trainer)</h2></summary>
+<br>
+<i>Inhalte: Fullstack-Quiz (HTTP/REST, HTML/CSS, JS, Node.js/PHP), Prüfungssimulation & Drag-and-Drop Aufgaben.</i>
+<br><br>
+
+| Version | Download | Beschreibung |
+| :--- | :--- | :--- |
+| 🌐 **Web (HTML)** | [**Download .zip**](HIER_LINK_EINFÜGEN) | Direkt im Browser nutzen. |
+| 🪟 **Windows** | [**Download .zip**](HIER_LINK_EINFÜGEN) | `.exe` Datei (Portable). Bitte entpacken. |
+| 🤖 **Android** | [**Download .apk**](HIER_LINK_EINFÜGEN) | App-Datei für Android. |
+| 💻 **Quellcode** | [**Download .zip**](HIER_LINK_EINFÜGEN) | Flutter-Projekt (Assets inkludiert). |
 
 </details>
 
