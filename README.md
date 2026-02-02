@@ -94,7 +94,7 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 | :--- | :--- | :--- |
 | 🌐 **Web (HTML)** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v4.0/fullstack_web.zip) | Direkt im Browser nutzen. |
 | 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v4.0/fullstack_windows.zip) | `.exe` Datei (Portable). Bitte entpacken. |
-| 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v4.0/fullstack_apk.zip) | App-Datei für Android. |
+| 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1/Klausurvorbereitung_app.zip) | App-Datei für Android. |
 
 </details>
 
