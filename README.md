@@ -85,15 +85,15 @@ Klicke auf den Titel, um die Download-Optionen anzuzeigen.
 </details>
 
 <details>
-<summary><h2>🌐 Webprogrammierung Klausurvorbereitung</h2></summary>
+<summary><h2>🎓 Webprogrammierung Klausurvorbereitung</h2></summary>
 <br>
 <i>Inhalte: HTML/CSS Basics, JavaScript Interaktionen, DOM-Manipulation, lt. Aufgabenzusammenstellung.</i>
 <br><br>
 
 | Version | Download | Beschreibung |
 | :--- | :--- | :--- |
-| 🌐 **Web (HTML)** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v4.0/fullstack_web.zip) | Direkt im Browser nutzen. |
-| 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v4.0/fullstack_windows.zip) | `.exe` Datei (Portable). Bitte entpacken. |
+| 🌐 **Web (HTML)** | [**Download .zip**]() | Direkt im Browser nutzen. |
+| 🪟 **Windows** | [**Download .zip**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1/Klausurvorbereitung_windows.zip) | `.exe` Datei (Portable). Bitte entpacken. |
 | 🤖 **Android** | [**Download .apk**](https://github.com/BSLehrer/Informatik_Lernapps/releases/download/v1/Klausurvorbereitung_app.zip) | App-Datei für Android. |
 
 </details>
